@@ -18,7 +18,7 @@
 <tr>
   <td><address>&nbsp;&nbsp;&nbsp;China </address></td></tr>
 <tr>
-  <td><address>&nbsp;&nbsp;&nbsp;Email: ymliu [at] mail [dot] sysu.edu.cn </address></td></tr>
+  <td><address>&nbsp;&nbsp;&nbsp;Email: ymliu@mail.sysu.edu.cn </address></td></tr>
 </table>
 
 <h2> Research Interests </h2>
