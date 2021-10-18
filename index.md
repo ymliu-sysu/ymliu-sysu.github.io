@@ -1,9 +1,7 @@
-<HTML>
-
 <h1>Yongmei Liu</h1>
 <table>
 <tr>
-  <th rowspan="8"><img src="photo72.jpg" align="middle" width="110" height="150"></th>
+  <th rowspan="8"><img src="photo.jpg" align="middle" width="110" height="150"></th>
 </tr>
 <tr>
   <td>&nbsp;&nbsp;&nbsp;Professor<br></td></tr>
@@ -26,7 +24,7 @@ Artificial intelligence, Knowledge representation and reasoning, Reasoning about
 <h2> Education </h2>
 <b>Ph.D.</b>, Univ. of Toronto; <b>M.Sc.</b>, Univ. of Toronto; <b>B.Sc.</b>, Wuhan Univ.<br>
 <h2> Teaching </h2>
-<UL>
+
 <LI> Fall 2017, 2018, 2019, 2020, 2021: <A>Introduction to Artificial Intelligence</a>
 </LI>
 <LI> Fall 2020: <A>Knowledge Representation and Reasoning</a>
