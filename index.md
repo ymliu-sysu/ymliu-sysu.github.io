@@ -218,5 +218,3 @@ In <i>Proceedings of the Eighteenth National Conference on Artificial Intellige
 </LI><br><br>
 
 </OL>
-</BODY></font>
-</HTML>
