@@ -36,7 +36,6 @@ Artificial intelligence, Knowledge representation and reasoning, Reasoning about
 </LI>
 <LI> Spring 2018, 2019: <A>Discrete Mathematics</a>
 </LI>
-</UL>
 
 <h2> Publications </h2>
 <OL>
@@ -64,7 +63,7 @@ Artificial intelligence, Knowledge representation and reasoning, Reasoning about
 
 
 <LI>J. Li and Y. Liu. Automatic Verification of Liveness Properties in the Situation Calculus. In <i>Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20)</i>, 2020.
-      [<A HREF="./papers/AAAI20".pdf">pdf</A>]</LI><br><br>
+      [<A HREF="./papers/AAAI20.pdf">pdf</A>]</LI><br><br>
 
 
 <LI>K. Luo and Y. Liu. Automatic Verification of FSA Strategies via Counterexample-Guided Local Search for Invariants. In <i>Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence (IJCAI-19)</i>, 2019.
