@@ -25,7 +25,7 @@ Artificial intelligence, Knowledge representation and reasoning, Reasoning about
 <b>Ph.D.</b>, Univ. of Toronto; <b>M.Sc.</b>, Univ. of Toronto; <b>B.Sc.</b>, Wuhan Univ.<br>
 <h2> Teaching </h2>
 
-<LI> Fall 2017, 2018, 2019, 2020, 2021: <A>Introduction to Artificial Intelligence</a>
+<LI> Fall 2017, 2018, 2019, 2020, 2021: Introduction to Artificial Intelligence
 </LI>
 <LI> Fall 2020: Knowledge Representation and Reasoning
 <LI> Spring 2018: Advanced Mathematical Logic
