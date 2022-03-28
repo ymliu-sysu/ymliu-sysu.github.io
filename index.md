@@ -37,14 +37,17 @@ Artificial intelligence, Knowledge representation and reasoning, Reasoning about
 
 <h2> Publications </h2>
 <OL>
+  
+<LI> S. Ou and Y. Liu. Learning to Generate Programs for Table Fact Verification via Structure-Aware Semantic Parsing. To appear in <i>Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL-2022)</i>, 2022.
+      [<A HREF="./papers/ACL22.pdf">pdf</A>]</LI><br><br>
 
-<LI>Z. Cui, Y. Liu and K. Luo. A Uniform Abstraction Framework for Generalized Planning. In <i>Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence (IJCAI-21)</i>, 2021.
+<LI> K. Luo and Y. Liu. Automated Synthesis of Generalized Invariant Strategies via Counterexample-Guided Strategy Refinement. In <i>Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22)</i>, 2022.
       [<A HREF="./papers/AAAI22.pdf">pdf</A>]</LI><br><br>
   
-<LI>W. He, C. Huang, Y. Liu and X. Zhu. WINOLOGIC: A Zero-Shot Logic-based Diagnostic Dataset for Winograd Schema Challenge. To appear in <i>Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing(EMNLP-2021)</i>, 2021
+<LI>W. He, C. Huang, Y. Liu and X. Zhu. WINOLOGIC: A Zero-Shot Logic-based Diagnostic Dataset for Winograd Schema Challenge. In <i>Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing(EMNLP-2021)</i>, 2021
          [<A HREF="./papers/EMNLP21-1.pdf">pdf</A>]</LI><br><br>
 
-<LI>C. Huang, W. He and Y. Liu. Improving Unsupervised Commonsense Reasoning Using Knowledge-Enabled Natural Language Inference. To appear in <i>Proceedings of The 2021 Conference on Empirical Methods in Natural Language Processing (Findings)  (EMNLP-2021)</i>, 2021
+<LI>C. Huang, W. He and Y. Liu. Improving Unsupervised Commonsense Reasoning Using Knowledge-Enabled Natural Language Inference. In <i>Proceedings of The 2021 Conference on Empirical Methods in Natural Language Processing (Findings)  (EMNLP-2021)</i>, 2021
       [<A HREF="./papers/EMNLP21-2.pdf">pdf</A>]</LI><br><br>
 
 
