@@ -38,6 +38,9 @@ Artificial intelligence, Knowledge representation and reasoning, Reasoning about
 <h2> Publications </h2>
 <OL>
 
+<LI>Z. Cui, Y. Liu and K. Luo. A Uniform Abstraction Framework for Generalized Planning. In <i>Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence (IJCAI-21)</i>, 2021.
+      [<A HREF="./papers/AAAI22.pdf">pdf</A>]</LI><br><br>
+  
 <LI>W. He, C. Huang, Y. Liu and X. Zhu. WINOLOGIC: A Zero-Shot Logic-based Diagnostic Dataset for Winograd Schema Challenge. To appear in <i>Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing(EMNLP-2021)</i>, 2021
          [<A HREF="./papers/EMNLP21-1.pdf">pdf</A>]</LI><br><br>
 
