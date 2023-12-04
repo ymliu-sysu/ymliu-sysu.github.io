@@ -30,7 +30,7 @@ Artificial intelligence, Knowledge representation and reasoning, Reasoning about
 <LI> Fall 2020: Knowledge Representation and Reasoning
 <LI> Spring 2018: Advanced Mathematical Logic
 </LI>
-<LI> Fall 2019, 2021: Computability and Logic
+<LI> Fall 2019, 2021, 2023: Computability and Logic
 </LI>
 <LI> Spring 2018, 2019: Discrete Mathematics
 </LI>
