@@ -20,20 +20,11 @@
 </table>
 
 <h2> Research Interests </h2>
-Artificial intelligence, Knowledge representation and reasoning, Reasoning about actions and change, Reasoning about knowledge and belief, Reasoning about strategies, multi-agent epistemic planning, Generalized planning, Commonsense Reasoning<br>
+Artificial intelligence, Knowledge representation and reasoning, Reasoning about actions and change, Reasoning about knowledge and belief, Reasoning about strategies, Multi-agent epistemic planning, Multi-agent belief change， Generalized planning, Commonsense Reasoning, LLM-based logical reasoning<br>
 <h2> Education </h2>
 <b>Ph.D.</b>, Univ. of Toronto; <b>M.Sc.</b>, Univ. of Toronto; <b>B.Sc.</b>, Wuhan Univ.<br>
 <h2> Teaching </h2>
-
-<LI> Fall 2017, 2018, 2019, 2020, 2021: Introduction to Artificial Intelligence
-</LI>
-<LI> Fall 2020: Knowledge Representation and Reasoning
-<LI> Spring 2018: Advanced Mathematical Logic
-</LI>
-<LI> Fall 2019, 2021, 2023: Computability and Logic
-</LI>
-<LI> Spring 2018, 2019: Discrete Mathematics
-</LI>
+Introduction to Artificial Intelligence, Knowledge Representation and Reasoning, Advanced Mathematical Logic, Computability and Logic, Discrete Mathematics
 
 <h2> Publications </h2>
 <OL>
