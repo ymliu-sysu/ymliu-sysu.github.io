@@ -38,7 +38,10 @@ Artificial intelligence, Knowledge representation and reasoning, Reasoning about
 <h2> Publications </h2>
 <OL>
   
-<LI> S. Ou and Y. Liu. Learning to Generate Programs for Table Fact Verification via Structure-Aware Semantic Parsing. To appear in <i>Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL-2022)</i>, 2022.
+<LI> Zhaoshuai Liu, Aiting Liang, Yongmei Liu: Epistemic JAADL: A Modal Logic for Joint Abilities with Imperfect Information. In <i>Proceedings of the 26th European Conference on Artificial Intelligence, (ECAI 2023)</i>, 2023
+      [<A HREF="./papers/ECAI23-2.pdf">pdf</A>]</LI><br><br>
+      
+      <LI> S. Ou and Y. Liu. Learning to Generate Programs for Table Fact Verification via Structure-Aware Semantic Parsing. To appear in <i>Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL-2022)</i>, 2022.
       [<A HREF="./papers/ACL22.pdf">pdf</A>]</LI><br><br>
 
 <LI> K. Luo and Y. Liu. Automated Synthesis of Generalized Invariant Strategies via Counterexample-Guided Strategy Refinement. In <i>Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22)</i>, 2022.
