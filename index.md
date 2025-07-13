@@ -38,6 +38,27 @@ Artificial intelligence, Knowledge representation and reasoning, Reasoning about
 <h2> Publications </h2>
 <OL>
   
+<LI> Ruikang Hu, Shaoyu Lin, Yeliang Xiu, Yongmei Liu. LTRAG: Enhancing autoformalization and self-refinement   for logical reasoning with Thought-Guided RAG. To appear in <i>Proceedings of the 63rd Annual Meeting of the   Association for Computational Linguistics (Findings) (ACL-2025)</i>, 2025
+      [<A HREF="./papers/ACL25.pdf">pdf</A>]</LI><br><br>
+
+<LI> Zheyuan Shi, Hao Dong, Yongmei Liu: Solving QNP and FOND+ with Generating, Testing and Forbidding. To appear in <i>Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)</i>, 2025
+      [<A HREF="./papers/IJCAI25.pdf">pdf</A>]</LI><br><br>
+
+<LI> Hao Dong, Zheyuan Shi, Hemeng Zeng, Yongmei Liu: An Automatic Sound and Complete Abstraction Method for Generalized Planning with Baggable Types. In <i>Proceedings of the Thirty-Ninthth AAAI Conference on Artificial Intelligence (AAAI-25)</i>, 2025
+      [<A HREF="./papers/AAAI25-1.pdf">pdf</A>]</LI><br><br>
+
+<LI> Ruiqi Jin, Yongmei Liu, Liping Xiong: A Modal Logic for Joint Abilities of Structured Strategies with Bounded Complexity. In <i>Proceedings of the Thirty-Ninthth AAAI Conference on Artificial Intelligence (AAAI-25)</i>, 2025.
+      [<A HREF="./papers/AAAI25-2.pdf">pdf</A>]</LI><br><br>
+
+<LI> Weinan He, Canming Huang, Zhanhao Xiao, Yongmei Liu: Exploring the Capacity of Pretrained Language Models for Reasoning about Actions and Change. In <i>Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)</i>, 2023
+      [<A HREF="./papers/ACL23.pdf">pdf</A>]</LI><br><br>
+
+<LI> Zhenhe Cui, Weidu Kuang, Yongmei Liu: Automatic Verification for Soundness of Bounded QNP Abstractions for Generalized Planning. In <i>Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)</i>, 2023
+      [<A HREF="./papers/IJCAI23.pdf">pdf</A>]</LI><br><br>
+
+<LI> Aiting Liang, Yongmei Liu: A Model-Theoretic Approach to Belief Revision in Multi-Agent Belief Logic and Its Syntactic Characterizations. In <i>Proceedings of the 26th European Conference on Artificial Intelligence (ECAI 2023)</i>, 2023
+      [<A HREF="./papers/ECAI23-1.pdf">pdf</A>]</LI><br><br>
+
 <LI> Zhaoshuai Liu, Aiting Liang, Yongmei Liu: Epistemic JAADL: A Modal Logic for Joint Abilities with Imperfect Information. In <i>Proceedings of the 26th European Conference on Artificial Intelligence, (ECAI 2023)</i>, 2023
       [<A HREF="./papers/ECAI23-2.pdf">pdf</A>]</LI><br><br>
       
