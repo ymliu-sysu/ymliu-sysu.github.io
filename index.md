@@ -39,7 +39,7 @@ Artificial intelligence, Knowledge representation and reasoning, Reasoning about
 <OL>
   
 <LI> Ruikang Hu, Shaoyu Lin, Yeliang Xiu, Yongmei Liu. LTRAG: Enhancing autoformalization and self-refinement   for logical reasoning with Thought-Guided RAG. To appear in <i>Proceedings of the 63rd Annual Meeting of the   Association for Computational Linguistics (Findings) (ACL-2025)</i>, 2025
-      [<A HREF="./papers/ACL25.pdf">pdf</A>]</LI><br><br>
+      [<A HREF="./papers/ACL25.pdf">pdf</A>]</LI><br>
 
 <LI> Zheyuan Shi, Hao Dong, Yongmei Liu: Solving QNP and FOND+ with Generating, Testing and Forbidding. To appear in <i>Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)</i>, 2025
       [<A HREF="./papers/IJCAI25.pdf">pdf</A>]</LI><br><br>
