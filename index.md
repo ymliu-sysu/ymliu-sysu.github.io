@@ -28,11 +28,17 @@ Introduction to Artificial Intelligence, Knowledge Representation and Reasoning,
 
 <h2> Publications </h2>
 <OL>
+
+<LI> Ruiqi Jin, Shuyi Li, Yongmei Liu: Enhancing Strategy Logic with Procedural Rationality. In <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26)</i>, 2026
+      [<A HREF="./papers/AAAI26.pdf">pdf</A>]</LI><br>
+
+<LI> Yeliang Xiu, Yongmei Liu: MultiLogicNMR(er): A Benchmark and Neural-Symbolic Framework for Non-monotonic Reasoning with Multiple Extensions. In <i>Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)</i>, 2025
+      [<A HREF="./papers/EMNLP25.pdf">pdf</A>]</LI><br>
   
-<LI> Ruikang Hu, Shaoyu Lin, Yeliang Xiu, Yongmei Liu. LTRAG: Enhancing autoformalization and self-refinement   for logical reasoning with Thought-Guided RAG. To appear in <i>Proceedings of the 63rd Annual Meeting of the   Association for Computational Linguistics (Findings) (ACL-2025)</i>, 2025
+<LI> Ruikang Hu, Shaoyu Lin, Yeliang Xiu, Yongmei Liu. LTRAG: Enhancing autoformalization and self-refinement   for logical reasoning with Thought-Guided RAG. In <i>Proceedings of the 63rd Annual Meeting of the   Association for Computational Linguistics (Findings) (ACL-2025)</i>, 2025
       [<A HREF="./papers/ACL25.pdf">pdf</A>]</LI><br>
 
-<LI> Zheyuan Shi, Hao Dong, Yongmei Liu: Solving QNP and FOND+ with Generating, Testing and Forbidding. To appear in <i>Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)</i>, 2025
+<LI> Zheyuan Shi, Hao Dong, Yongmei Liu: Solving QNP and FOND+ with Generating, Testing and Forbidding. In <i>Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)</i>, 2025
       [<A HREF="./papers/IJCAI25.pdf">pdf</A>]</LI><br>
 
 <LI> Hao Dong, Zheyuan Shi, Hemeng Zeng, Yongmei Liu: An Automatic Sound and Complete Abstraction Method for Generalized Planning with Baggable Types. In <i>Proceedings of the Thirty-Ninthth AAAI Conference on Artificial Intelligence (AAAI-25)</i>, 2025
